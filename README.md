@@ -1,0 +1,2 @@
+# infinisync
+Hosting by InfiniSync
