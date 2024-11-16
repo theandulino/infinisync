@@ -1,5 +1,5 @@
 
-![Logo](https://infinisync.ddns.net/data/components/png/logo_long.png)
+![Logo](https://github.com/andiistlostkappa/infinisync/blob/main/logo_long-removebg.png)
 
 
 
