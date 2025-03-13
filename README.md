@@ -12,7 +12,7 @@ A Web Hosting Service
 
 ## Screenshots
 
-![App Screenshot](https://infinisync.ddns.net/data/components/png/screenshot.png)
+![App Screenshot](https://infinisync.at/data/components/png/screenshot.png)
 
 
 ## Status
