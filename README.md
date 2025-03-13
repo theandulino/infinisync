@@ -19,27 +19,7 @@ A Web Hosting Service
 
 ### Server
 
-![Static Badge](https://img.shields.io/badge/API-Online-green)
-
-![Static Badge](https://img.shields.io/badge/HTTP-Online-green)
-
-![Static Badge](https://img.shields.io/badge/HTTPS-Online-green)
-
-![Static Badge](https://img.shields.io/badge/MYSQL-Online-green)
-
-![Static Badge](https://img.shields.io/badge/phpmyadmin-Online-green)
-
-### Sites
-![Static Badge](https://img.shields.io/badge/home-Online-green)
-
-![Static Badge](https://img.shields.io/badge/dashboard-Online-green)
-
-![Static Badge](https://img.shields.io/badge/plans-Online-green)
-
-![Static Badge](https://img.shields.io/badge/hosting-Online-green)
-
-![Static Badge](https://img.shields.io/badge/support-Online-green)
-## Support
+[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v2/monitor/1pzvf.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
 
 For support, go on [infinisync.ddns.net](https://infinisync.ddns.net/ticket).
 
