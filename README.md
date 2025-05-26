@@ -1,4 +1,4 @@
-
+![table](/data/images/logo_long-removebg.png)
 ## InfiniSync WebRepo
 
 For security reasons, db.php is not included in the repo.
