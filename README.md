@@ -1,4 +1,4 @@
-![table](/data/images/logo_long-removebg.png)
+![table](/web/data/images/logo_long-removebg.png)
 ## InfiniSync WebRepo
 
 For security reasons, db.php is not included in the repo.
@@ -26,7 +26,7 @@ And this content:
     }
 
 You need to make one table:
-![table](/data/%7B62E11C19-3379-4248-8C21-F7E51BFE082F%7D.png)
+![table](/web/data/%7B62E11C19-3379-4248-8C21-F7E51BFE082F%7D.png)
 
 And thats it.
 Please don't use it to mimic or distribute false information.
